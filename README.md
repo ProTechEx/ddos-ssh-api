@@ -22,4 +22,10 @@ Line 14: API Key, change that to your API Key so its protected
 Line 78: Add new method, just copy the same from any method and replace with your method usage
 
 
+Upload file to /var/www/html
+
+
+API Link: http://YOURSERVERIP/api.php?key=superkey&host=[host]&port=[port]&time=[time]&method=[method]
+
+
 Coded by @fork
