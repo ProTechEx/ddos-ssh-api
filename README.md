@@ -6,6 +6,7 @@ API in PHP for DDoS Attacks
 Install on Ubuntu 18:
 
 apt install apache2 php php-fpm php-ssh2 -y
+
 service apache2 restart
 
 
